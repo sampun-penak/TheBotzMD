@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "TheBotzMD",
   "version": "1.7.0",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "TheBotzMD",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "MimimOfc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:zeeone-ofc/Baileys",

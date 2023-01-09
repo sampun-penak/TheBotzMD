@@ -169,7 +169,7 @@ async function startalpha() {
       })
    }
 
-   console.log(color(figlet.textSync('Alphabot-MD', {
+   console.log(color(figlet.textSync('TheBotz-MD', {
       font: 'Standard',
       horizontalLayout: 'default',
       vertivalLayout: 'default',
@@ -214,7 +214,7 @@ async function startalpha() {
          }
          return message;
       },
-      browser: ['Bot By ZeeoneOfc', 'safari', '1.0.0'],
+      browser: ['Bot By MimimOfc', 'safari', '1.0.0'],
       auth: state,
       version
    })
